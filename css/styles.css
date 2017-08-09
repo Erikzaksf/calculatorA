@@ -1,0 +1,32 @@
+#container {
+   background-color: #fff;
+    margin: 0 auto;
+    height: 20rem;
+    width: 22.2rem;
+    overflow: hidden;
+    padding: 1rem 0.5rem;
+    border-radius: 1rem;
+    border: 1px solid #dadada;
+}
+span {
+    background-color: #dcdcdc;
+    width: 4.5rem;
+    height: 3rem;
+    border-radius: 3px;
+    float: left;
+    margin: 0.5rem;
+    text-align: center;
+    line-height: 3rem;
+  }
+  span:hover {
+    background: #b7b5b5;
+    box-shadow: 1px 3px 3px #dcdcdc;
+  }
+  #screen {
+    height: 3rem;
+    width: 15.4rem;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 1px 2px 4px #dcdcdc;
+    display:inline;
+  }
